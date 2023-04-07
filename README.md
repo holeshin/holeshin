@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=600&section=header&text=capsule%20render&fontSize=90"/>
      
     # 💪Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -17,6 +17,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hole546@gmail.com)](mailto:hole546@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hole546@naver.com)](mailto:hole546@naver.com) 
      
-     />
+
 
 
