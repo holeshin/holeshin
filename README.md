@@ -1,5 +1,5 @@
 
-[code](https://user-images.githubusercontent.com/109591160/230563093-c1f6bd4f-f91a-4f8e-be72-ba3b83b902f1.png)
+![code](https://user-images.githubusercontent.com/109591160/230563093-c1f6bd4f-f91a-4f8e-be72-ba3b83b902f1.png)
 
      
 # :mailbox_with_mail: Skills
