@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1000&color=75E66C&background=000000EE&multiline=true&width=800&lines=hello+world+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1000&color=75E66C&background=000000EE&multiline=true&width=1000&lines=hello+world+!)](https://git.io/typing-svg)
 
 
 # 🖥️ Skills
