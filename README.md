@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffffc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
 # :mailbox_with_mail: Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
