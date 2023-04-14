@@ -1,7 +1,5 @@
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=6000&pause=1000&color=75E66C&background=00000000&multiline=true&width=1000&lines=hello+world+!)](https://git.io/typing-svg)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi welcome my repository%20render&fontSize=90)
 
 # 🖥️ Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
@@ -14,9 +12,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&theme=radical)
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={holeshin}&theme={default}
-
-    
+ 
 # ⭐️ Project repository
 🏠 오늘의집
 https://github.com/holeshin/43-2nd-comebackhome-frontend
