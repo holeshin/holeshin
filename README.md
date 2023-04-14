@@ -14,6 +14,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&theme=radical)
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={holeshin}&theme={default}
+
     
 # ⭐️ Project repository
 🏠 오늘의집
