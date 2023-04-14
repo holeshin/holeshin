@@ -19,7 +19,7 @@
  <div height=300>
  
 ![holeshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&theme=radical)
-![holeshin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=holeshin)]
+![holeshin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=holeshin)
 
  </div>
  
