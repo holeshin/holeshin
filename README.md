@@ -16,11 +16,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&theme=radical)
     
 # ⭐️ Project repository
-🎬 오늘의집
-https://github.com/wecode-bootcamp-korea/43-2nd-comebackhome-frontend
+🏠 오늘의집
+https://github.com/holeshin/43-2nd-comebackhome-frontend
 
-👟 스파오
-https://github.com/summer-o3o/43-1st-200OK-frontend     
+👗 스파오
+https://github.com/holeshin/43-1st-200ok-frontend
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hole546@gmail.com)](mailto:hole546@gmail.com)
