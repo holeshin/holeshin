@@ -18,8 +18,8 @@
  
  <div height=300>
  
-![holeshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&theme=radical)
-![holeshin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=holeshin)
+<a href="https://github.com/holeshin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Eungyeol41&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="holeshin's github stats" /></a>
+<a href="https://github.com/holeshin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holeshin&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
 
  </div>
  
