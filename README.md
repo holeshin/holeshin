@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
  
- <div height=300>
+ <div align=start height=300>
  
 <a href="https://github.com/holeshin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="holeshin's github stats" /></a>
 <a href="https://github.com/holeshin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holeshin&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
