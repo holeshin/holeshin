@@ -25,10 +25,10 @@
  
 # ⭐️ Project repository       
 
-🏠 오늘의집
+🏠 콤배콤
 https://github.com/holeshin/43-2nd-comebackhome-frontend
 
-👗 스파오
+👗 200OK
 https://github.com/holeshin/43-1st-200ok-frontend
 
 
