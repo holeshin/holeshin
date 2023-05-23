@@ -4,20 +4,33 @@
  
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Welcome%20My%20Repository&fontSize=60&fontColor=000000"/> 
 
-# 🖥️ Skills
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![react](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-<br>
-# 🔨 Tool
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-<br>
-# 🦾 Studying
-<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=🤟%Welcome%20My%20Repository&fontSize=60&fontColor=000000"/> 
+<br/>
+
+# 🙋‍♂️ Hi, I'm Jeoungho !
+I am a junior developer and I like beautiful things, so I naturally chose a front-end developer. To improve my ability to solve problems with beautiful code, I am conducting coding tests 3 times a day.
+<br/> <br/> 
+# 🦾 Tech stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=flat&logo=Sass&logoColor=white)
+![styled-component](https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=flat&logo=styledcomponents&logoColor=white)
+![tailwindCSS](https://img.shields.io/badge/tailwindCSS-06B6D4.svg?&style=flat&logo=tailwindCSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
+![react](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
+![React-Router](https://img.shields.io/badge/ReactRouter-CA4245.svg?&style=flat&logo=React-Router&logoColor=white)
+<br/> <br/> 
+# 👨‍👨‍👧 Collaboration
+![Trello](https://img.shields.io/badge/Trello-0052CC.svg?&style=flat&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=Jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
+<br/> <br/> 
+# 📚 Studying
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white)
+<br/> <br/> 
 # 🚀 GitHub Stats
  <div align=start height=300>
 <a href="https://github.com/holeshin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="holeshin's github stats" /></a>
