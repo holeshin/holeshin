@@ -32,8 +32,8 @@ I am a junior developer and I like beautiful things, so I naturally chose a fron
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white)
 <br/> <br/> 
 # 🚀 GitHub Stats
- <div align=start height=300>
-<a href="https://github.com/holeshin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="holeshin's github stats" /></a>
+![holeshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holeshin&langs_count=8)](https://github.com/holeshin/github-readme-stats)
 
  </div>
 
