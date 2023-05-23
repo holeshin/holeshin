@@ -15,19 +15,14 @@
 # 🔨 Tool
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
- 
+
+# 🦾 Studying
+
  <div align=start height=300>
- 
+# 🚀 GitHub Stats
 <a href="https://github.com/holeshin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="holeshin's github stats" /></a>
 
  </div>
- 
-# ⭐️ Project repository       
 
-🏠 콤배콤
-https://github.com/holeshin/43-2nd-comebackhome-frontend
-
-👗 200OK
-https://github.com/holeshin/43-1st-200ok-frontend
 
 
