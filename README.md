@@ -20,7 +20,6 @@ I am a junior developer and I like beautiful things, so I naturally chose a fron
 ![tailwindCSS](https://img.shields.io/badge/tailwindCSS-06B6D4.svg?&style=flat&logo=tailwindCSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
 ![react](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white)
-![React-Router](https://img.shields.io/badge/ReactRouter-CA4245.svg?&style=flat&logo=React-Router&logoColor=white)
 <br/> <br/> 
 # 👨‍👨‍👧 Collaboration
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?&style=flat&logo=Trello&logoColor=white)
