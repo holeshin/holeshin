@@ -26,10 +26,6 @@ I am a junior developer and I like beautiful things, so I naturally chose a fron
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=Jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=Slack&logoColor=white)
 <br/> <br/> 
-# 📚 Studying
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=flat&logo=Next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white)
-<br/> <br/> 
 # 🚀 GitHub Stats
 ![holeshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=holeshin&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holeshin&langs_count=8)](https://github.com/holeshin/github-readme-stats)
